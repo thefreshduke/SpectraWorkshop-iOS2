@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7E479536B3E7F4B596ABA695B57492790DC85B23",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7E479536B3E7F4B596ABA695B57492790DC85B23" : 0,
+    "4A762B727C72E1EAA39EAEA3996B9BD9367C15B4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "88BD6878-B2A0-4F44-AC67-F28D9C9BAE08",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7E479536B3E7F4B596ABA695B57492790DC85B23" : "SpectraWorkshop-iOS2\/",
+    "4A762B727C72E1EAA39EAEA3996B9BD9367C15B4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SpectraWorkshop-iOS2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SpectraWorkshop-iOS2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:thefreshduke\/PrimeNumberTutorial.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4A762B727C72E1EAA39EAEA3996B9BD9367C15B4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:thefreshduke\/SpectraWorkshop-iOS2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7E479536B3E7F4B596ABA695B57492790DC85B23"
+    }
+  ]
+}
