@@ -38,6 +38,9 @@
                             <constraint firstItem="NJT-67-gId" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="zsw-bj-v0b"/>
                         </constraints>
                     </view>
+                    <connections>
+                        <outlet property="myButton" destination="NJT-67-gId" id="vGT-7O-zvv"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
