@@ -19,6 +19,7 @@
 		6F5FE3B01D42DFB9003E5680 /* TwitterKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F5FE3AC1D42DFB9003E5680 /* TwitterKit.framework */; };
 		6F5FE3B11D42DFB9003E5680 /* TwitterKitResources.bundle in Resources */ = {isa = PBXBuildFile; fileRef = 6F5FE3AD1D42DFB9003E5680 /* TwitterKitResources.bundle */; };
 		6F5FE3B21D42DFB9003E5680 /* TwitterCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6F5FE3AE1D42DFB9003E5680 /* TwitterCore.framework */; };
+		6F5FE3B41D42EB82003E5680 /* DosEquisThemeSong.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6F5FE3B31D42EB82003E5680 /* DosEquisThemeSong.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		6F5FE3AC1D42DFB9003E5680 /* TwitterKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterKit.framework; sourceTree = "<group>"; };
 		6F5FE3AD1D42DFB9003E5680 /* TwitterKitResources.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; name = TwitterKitResources.bundle; path = TwitterKit.framework/Versions/A/Resources/TwitterKitResources.bundle; sourceTree = "<group>"; };
 		6F5FE3AE1D42DFB9003E5680 /* TwitterCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = TwitterCore.framework; sourceTree = "<group>"; };
+		6F5FE3B31D42EB82003E5680 /* DosEquisThemeSong.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = DosEquisThemeSong.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		6F5FE36C1D4209E2003E5680 = {
 			isa = PBXGroup;
 			children = (
+				6F5FE3B31D42EB82003E5680 /* DosEquisThemeSong.mp3 */,
 				6F5FE3AB1D42DFB8003E5680 /* Fabric.framework */,
 				6F5FE3AC1D42DFB9003E5680 /* TwitterKit.framework */,
 				6F5FE3AD1D42DFB9003E5680 /* TwitterKitResources.bundle */,
@@ -250,6 +253,7 @@
 			files = (
 				6F5FE3B11D42DFB9003E5680 /* TwitterKitResources.bundle in Resources */,
 				6F5FE3831D4209E2003E5680 /* LaunchScreen.storyboard in Resources */,
+				6F5FE3B41D42EB82003E5680 /* DosEquisThemeSong.mp3 in Resources */,
 				6F5FE3801D4209E2003E5680 /* Assets.xcassets in Resources */,
 				6F5FE37E1D4209E2003E5680 /* Main.storyboard in Resources */,
 			);
